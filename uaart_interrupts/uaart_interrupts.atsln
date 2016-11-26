@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "uaart_interrupts", "uaart_interrupts\uaart_interrupts.cproj", "{54D7138B-B791-44E8-B517-EE34F0C86098}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "GccApplication4", "C:\Users\user\Documents\Atmel Studio\6.2\GccApplication4\GccApplication4\GccApplication4.cproj", "{8D5290CD-DFDF-4081-B6E6-6015365D470E}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "uaart2inter", "uaart2inter\uaart2inter.cproj", "{4663899D-4D2A-49FC-9DEB-8DB967405167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54D7138B-B791-44E8-B517-EE34F0C86098}.Debug|AVR.ActiveCfg = Debug|AVR
+		{54D7138B-B791-44E8-B517-EE34F0C86098}.Debug|AVR.Build.0 = Debug|AVR
+		{54D7138B-B791-44E8-B517-EE34F0C86098}.Release|AVR.ActiveCfg = Release|AVR
+		{54D7138B-B791-44E8-B517-EE34F0C86098}.Release|AVR.Build.0 = Release|AVR
+		{8D5290CD-DFDF-4081-B6E6-6015365D470E}.Debug|AVR.ActiveCfg = Debug|AVR
+		{8D5290CD-DFDF-4081-B6E6-6015365D470E}.Debug|AVR.Build.0 = Debug|AVR
+		{8D5290CD-DFDF-4081-B6E6-6015365D470E}.Release|AVR.ActiveCfg = Release|AVR
+		{8D5290CD-DFDF-4081-B6E6-6015365D470E}.Release|AVR.Build.0 = Release|AVR
+		{4663899D-4D2A-49FC-9DEB-8DB967405167}.Debug|AVR.ActiveCfg = Debug|AVR
+		{4663899D-4D2A-49FC-9DEB-8DB967405167}.Debug|AVR.Build.0 = Debug|AVR
+		{4663899D-4D2A-49FC-9DEB-8DB967405167}.Release|AVR.ActiveCfg = Release|AVR
+		{4663899D-4D2A-49FC-9DEB-8DB967405167}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
